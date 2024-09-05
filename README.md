@@ -9,6 +9,8 @@
 - **Animations**: Engaging animations for the quote box and button.
 - **Responsive Layout**: Compatible with various screen sizes and devices.
 
+  ![Screenshot (6)](https://github.com/user-attachments/assets/3ccdc6ef-485a-4cb7-afe1-3222d8718b59)
+
 ## Technologies Used
 
 - **HTML**: Provides the structure of the application.
